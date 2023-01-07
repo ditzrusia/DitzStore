@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="HINATA HYUGA" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DITZ STORE" src="https://img.shields.io/badge/HINATA HYUGA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/riychdwayne/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
@@ -31,7 +31,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-hinata](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-ditzstore](https://wa.me/19136668929)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,10 +68,11 @@ npm start
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/19136668929?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/19136668929?text=Bang+mau+donasi)
 
 # Thanks to
-- Irfan
-- Yoga
-- Riy
+- Aditya Okta Farabi
+- Muhammad Ilham
+- Akmanul Ikhsan
+- M Fahri Alutfi
